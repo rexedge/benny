@@ -4,7 +4,7 @@ export const data = [
           price: '1500',
           category: 'Whiskey',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'drink'
      },
      {
@@ -12,7 +12,7 @@ export const data = [
           price: '1000',
           category: 'soup',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -20,7 +20,7 @@ export const data = [
           price: '1000',
           category: 'soup',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -28,7 +28,7 @@ export const data = [
           price: '1000',
           category: 'soup',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -36,7 +36,7 @@ export const data = [
           price: '1000',
           category: 'soup',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -44,7 +44,7 @@ export const data = [
           price: '1000',
           category: 'soup',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -52,7 +52,7 @@ export const data = [
           price: '1000',
           category: 'soup',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -60,7 +60,7 @@ export const data = [
           price: '1000',
           category: 'soup',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -68,7 +68,7 @@ export const data = [
           price: '1000',
           category: 'sauce',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -76,7 +76,7 @@ export const data = [
           price: '1000',
           category: 'sauce',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -84,7 +84,7 @@ export const data = [
           price: '1000',
           category: 'sauce',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -92,7 +92,7 @@ export const data = [
           price: '1000',
           category: 'sauce',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -100,7 +100,7 @@ export const data = [
           price: '700',
           category: 'swallow',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -108,7 +108,7 @@ export const data = [
           price: '700',
           category: 'swallow',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -116,7 +116,7 @@ export const data = [
           price: '700',
           category: 'swallow',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -124,7 +124,7 @@ export const data = [
           price: '700',
           category: 'swallow',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -132,7 +132,7 @@ export const data = [
           price: '700',
           category: 'swallow',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -140,7 +140,7 @@ export const data = [
           price: '1000',
           category: 'africana',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -148,7 +148,7 @@ export const data = [
           price: '1500',
           category: 'africana',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -156,7 +156,7 @@ export const data = [
           price: '1500',
           category: 'africana',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -164,7 +164,7 @@ export const data = [
           price: '1000',
           category: 'africana',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -172,7 +172,7 @@ export const data = [
           price: '2500',
           category: 'proteins',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -180,7 +180,7 @@ export const data = [
           price: '2500',
           category: 'proteins',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -188,7 +188,7 @@ export const data = [
           price: '2500',
           category: 'proteins',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -196,7 +196,7 @@ export const data = [
           price: '2500',
           category: 'proteins',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -204,7 +204,7 @@ export const data = [
           price: '2500',
           category: 'proteins',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -212,7 +212,7 @@ export const data = [
           price: '2500',
           category: 'proteins',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -220,7 +220,7 @@ export const data = [
           price: '2500',
           category: 'proteins',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -228,7 +228,7 @@ export const data = [
           price: '2500',
           category: 'proteins',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -236,7 +236,7 @@ export const data = [
           price: '2500',
           category: 'proteins',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -244,7 +244,7 @@ export const data = [
           price: '2500',
           category: 'proteins',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -252,7 +252,7 @@ export const data = [
           price: '2500',
           category: 'proteins',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -260,7 +260,7 @@ export const data = [
           price: '4000',
           category: 'proteins',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -268,7 +268,7 @@ export const data = [
           price: '4000',
           category: 'proteins',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -276,7 +276,7 @@ export const data = [
           price: '1000',
           category: 'sides',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -284,7 +284,7 @@ export const data = [
           price: '1000',
           category: 'sides',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -292,7 +292,7 @@ export const data = [
           price: '1000',
           category: 'sides',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -300,7 +300,7 @@ export const data = [
           price: '1000',
           category: 'sides',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -308,7 +308,7 @@ export const data = [
           price: '500',
           category: 'sides',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -316,7 +316,7 @@ export const data = [
           price: '4000',
           category: 'salad',
           description: 'Chicken, Egg, Lettuce, Fresh Tomatoes, Cabbage, Cucumber, Sweet Corn and Salad cream',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -324,7 +324,7 @@ export const data = [
           price: '2000',
           category: 'salad',
           description: 'Cabbage, Cucumber, Lettuce, Baked Beans, Sweet Corn and Egg',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -332,7 +332,7 @@ export const data = [
           price: '2500',
           category: 'salad',
           description: 'Mixed Vegetable White and Purple Cabbage, Cucumber, Sweet Corn, Lettuce, Egg, Macaroni, Sweet or Irish Potato, Baked Beans and Chef\'s Cream',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -340,7 +340,7 @@ export const data = [
           price: '3500',
           category: 'sandwiches',
           description: 'Lettuce, Tomatoes, 3 Slices of Toast bread, french fries and Tuna',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -348,7 +348,7 @@ export const data = [
           price: '4000',
           category: 'sandwiches',
           description: '4 slice of toast bread, egg, chicken, french fries, lettuce, tomatoes, cheese, cucumber',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      },
      {
@@ -356,7 +356,7 @@ export const data = [
           price: '500',
           category: 'snacks',
           description: '',
-          image: '',
+          image: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800',
           section: 'food'
      }
 ]
