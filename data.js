@@ -5,5 +5,6 @@ export const data = [
           category: 'Whiskey',
           description: '',
           image: '',
+          section: 'drink'
      }
 ]
